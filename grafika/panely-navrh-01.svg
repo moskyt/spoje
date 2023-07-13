@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="992.13px" height="708.66px" viewBox="0 0 992.13 708.66" enable-background="new 0 0 992.13 708.66" xml:space="preserve">
+<rect x="175.649" y="152.222" fill="none" stroke="#000000" stroke-width="0.98" stroke-miterlimit="10" width="654.803" height="436.535"/>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="1.5598" stroke-miterlimit="10" d="M496.497,542.062
+		c0,6.042-5.602,10.939-12.511,10.939H226.131c-6.909,0-12.51-4.897-12.51-10.939V403.953c0-6.043,5.601-10.94,12.51-10.94h257.854
+		c6.91,0,12.511,4.897,12.511,10.94V542.062z"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="0.65" stroke-miterlimit="10" cx="243.89" cy="441.651" r="9.212"/>
+	<text transform="matrix(1 0 0 1 224.7954 491.6494)" font-family="'DINAlternate-Bold'" font-size="12">230VAC</text>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="0.9999" stroke-miterlimit="10" cx="243.89" cy="514.808" r="14.173"/>
+	<text transform="matrix(1 0 0 1 297.1553 491.6641)" font-family="'DINAlternate-Bold'" font-size="12">63VAC</text>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.62" stroke-miterlimit="10" cx="383.576" cy="514.807" r="11.48"/>
+	<text transform="matrix(1 0 0 1 367.3628 491.6494)" font-family="'DINAlternate-Bold'" font-size="12">24VDC</text>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="0.65" stroke-miterlimit="10" cx="383.576" cy="441.651" r="9.213"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-miterlimit="10" cx="313.25" cy="514.808" r="14.174"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="0.65" stroke-miterlimit="10" cx="313.249" cy="441.651" r="9.212"/>
+	<text transform="matrix(1 0 0 1 260.8711 265.3657)"><tspan x="0" y="0" font-family="'DINAlternate-Bold'" font-size="12">LINKA A</tspan><tspan x="-4.236" y="14.4" font-family="'DINAlternate-Bold'" font-size="12">HLUBOKÁ</tspan></text>
+	<text transform="matrix(1 0 0 1 260.8711 322.0786)"><tspan x="0" y="0" font-family="'DINAlternate-Bold'" font-size="12">LINKA B</tspan><tspan x="5.543" y="14.4" font-family="'DINAlternate-Bold'" font-size="12">ORLÍK</tspan></text>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.2" stroke-miterlimit="10" cx="353.928" cy="265.364" r="8.503"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.2" stroke-miterlimit="10" cx="353.928" cy="325.367" r="8.503"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.65" stroke-miterlimit="10" cx="431.396" cy="265.365" r="23.386"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.65" stroke-miterlimit="10" cx="431.396" cy="325.368" r="23.386"/>
+	
+		<rect x="559.411" y="444.652" fill="#FFFFFF" stroke="#000000" stroke-width="1.6" stroke-miterlimit="10" width="96.379" height="79.37"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M543.893,258.613
+		c5.462,0,10.814,0,16.295,0c0.508,1.198,0.99,2.425,1.541,3.619c3.505,7.6,8.5,14.233,13.572,20.808
+		c4.462,5.782,9.013,11.497,13.521,17.243c0.439,0.561,0.862,1.133,1.488,1.958c-11.671,0-23.064,0-34.458,0
+		c-0.018,0.132-0.034,0.265-0.051,0.396c33.521,8.477,67.04,16.952,100.823,25.495c-0.509,0.654-0.797,1.107-1.162,1.482
+		c-5.377,5.538-11.563,9.87-18.602,13.123c-3.783,1.748-7.527,1.432-11.37,1.039c-13.768-1.408-27.008-4.798-39.48-10.869
+		c-15.042-7.322-27.77-17.344-36.272-32.043c-7.219-12.478-9.466-25.828-6.468-39.989
+		C543.429,260.131,543.673,259.404,543.893,258.613z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M675.765,258.687
+		c0.285,3.022,0.557,5.913,0.854,9.073c-19.303,0-38.29,0-57.803,0c8.858,11.771,17.412,23.135,26.135,34.725
+		c-0.683,0.093-1.084,0.195-1.484,0.195c-10.788-0.021-21.577-0.07-32.366-0.059c-1.27,0-2.166-0.379-3.025-1.319
+		c-5.392-5.902-6.533-12.591-3.801-20.005c1.963-5.324,5.215-9.865,8.951-14.053c2.427-2.719,5.045-5.271,7.65-7.822
+		c0.492-0.481,1.331-0.858,2.011-0.86c17.152-0.046,34.305-0.037,51.457-0.03C674.721,258.531,675.097,258.611,675.765,258.687z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M566.29,224.729
+		c3.146-2.229,6.204-4.596,9.454-6.662c13.811-8.782,28.976-13.832,45.139-16.005c3.339-0.449,6.705-0.738,10.068-0.953
+		c1.118-0.07,2.327,0.15,3.391,0.53c8.237,2.94,15.186,7.848,21.224,14.107c0.441,0.458,0.822,0.974,1.448,1.723
+		c-3.649,0.768-6.979,1.483-10.314,2.165c-8.938,1.83-17.877,3.649-26.819,5.459c-0.698,0.141-1.42,0.244-2.131,0.244
+		c-16.599,0.014-33.198,0.012-49.797,0.007c-0.478,0-0.956-0.058-1.434-0.089C566.442,225.08,566.366,224.905,566.29,224.729z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M732.118,256.822
+		c-10.082,0-19.896,0-29.868,0c-2.826-11.111-8.106-20.891-15.697-29.734c0.752-0.062,1.216-0.135,1.68-0.135
+		c7.577-0.007,15.154-0.043,22.73,0.044c0.933,0.011,2.074,0.458,2.754,1.093c8.046,7.512,14.246,16.277,17.831,26.769
+		C731.741,255.424,731.883,256.006,732.118,256.822z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M686.988,334.59
+		c-2.479-3.283-4.801-6.359-7.216-9.559c8.28-7.541,14.762-16.258,19.137-26.55c9.675,0,19.271,0,29.227,0
+		C718.834,315.688,704.372,326.625,686.988,334.59z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M664.171,226.899
+		c5.763,9.367,9.34,19.196,11.173,29.895c-17.198,0-34.201,0-51.66,0C636.458,245.571,650.22,236.306,664.171,226.899z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M700.404,256.82
+		c-7.851,0-15.569,0-23.445,0c-1.886-10.492-5.31-20.355-10.855-29.653c0.64-0.097,1.043-0.208,1.447-0.21
+		c5.201-0.012,10.403-0.045,15.604,0.036c0.713,0.011,1.62,0.435,2.094,0.97c6.954,7.864,12,16.798,14.874,26.921
+		c0.121,0.425,0.225,0.854,0.312,1.288C700.465,256.326,700.423,256.496,700.404,256.82z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M559.648,256.846
+		c-5.171,0-10.068,0-15.204,0c0.176-0.707,0.274-1.281,0.461-1.826c3.621-10.6,9.876-19.459,18.014-27.047
+		c0.581-0.541,1.526-0.978,2.304-0.98c14.658-0.057,29.316-0.041,43.975-0.037c0.162,0,0.324,0.039,0.559,0.293
+		c-0.52,0.133-1.036,0.277-1.56,0.396c-11.377,2.586-22.761,5.169-33.687,9.35c-3.188,1.219-6.34,2.663-9.264,4.412
+		c-5.26,3.145-6.788,5.789-5.919,13.293C559.402,255.349,559.52,255.993,559.648,256.846z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M697.254,298.461
+		c-4.314,9.9-10.432,18.089-18.387,25.369c-3.113-4.11-6.128-8.09-9.114-12.031c1.712-4.493,3.378-8.863,5.083-13.338
+		C682.17,298.461,689.557,298.461,697.254,298.461z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M704.1,267.697
+		c-0.451-2.999-0.893-5.928-1.357-9.021c9.947,0,19.812,0,30.07,0c0.52,2.882,1.056,5.859,1.625,9.021
+		C724.08,267.697,714.152,267.697,704.1,267.697z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M687.452,210.932
+		c8.341,3.704,15.918,8.273,23.061,14.26c-0.79,0.073-1.243,0.151-1.696,0.152c-7.408,0.008-14.816-0.016-22.225,0.027
+		c-1.143,0.006-2.024-0.271-2.747-1.164c-1.812-2.24-3.651-4.457-5.553-6.771C680.771,215.676,684.065,213.336,687.452,210.932z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M701.154,258.633
+		c0.455,3,0.897,5.916,1.369,9.025c-8.24,0-16.164,0-24.294,0c-0.303-2.941-0.608-5.92-0.928-9.025
+		C685.247,258.633,693.013,258.633,701.154,258.633z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M646.097,201.361
+		c13.812,0.615,27.118,3.482,39.864,9.279c-1.77,0.472-3.536,0.961-5.312,1.411c-2.411,0.611-4.818,1.253-7.255,1.75
+		c-0.673,0.138-1.594,0.036-2.144-0.336c-7.611-5.158-15.798-9.101-24.575-11.827C646.474,201.576,646.289,201.455,646.097,201.361z
+		"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M684.561,335.2
+		c-12.289,5.399-25.124,8.099-38.476,8.745c0.345-0.152,0.679-0.336,1.034-0.449c8.15-2.609,15.817-6.223,22.968-10.934
+		c0.51-0.336,1.265-0.664,1.797-0.539C676.124,333.021,680.338,334.127,684.561,335.2z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M669.979,214.648
+		c-3.856,0.848-7.458,1.641-11.145,2.451c-6.04-6.84-13.027-12.325-21.674-16.01C643.292,200.838,663.245,209.094,669.979,214.648z"
+		/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M658.449,328.598
+		c3.486,0.885,6.895,1.75,10.728,2.723c-9.952,6.539-20.393,10.74-31.71,12.93C645.595,340.555,652.504,335.243,658.449,328.598z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M668.308,309.87
+		c-2.79-3.693-5.58-7.386-8.565-11.339c4.554,0,8.795,0,13.43,0c-1.475,3.914-2.882,7.649-4.29,11.385
+		C668.69,309.901,668.498,309.886,668.308,309.87z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-miterlimit="10" d="M682.292,225.286
+		c-5.009,0-10.018,0-15.026,0c-0.06-0.106-0.12-0.214-0.181-0.319c2.922-1.974,5.845-3.946,8.968-6.055
+		c2.19,2.008,4.351,3.987,6.51,5.967C682.473,225.015,682.383,225.15,682.292,225.286z"/>
+	<text transform="matrix(1 0 0 1 641.1309 289.624)" font-family="'DINAlternate-Bold'" font-size="22.6261">SPOJE HVOZDY</text>
+	<path fill="none" stroke="#000000" stroke-width="1.6337" stroke-miterlimit="10" d="M496.497,354.489c0,6.627-5.602,12-12.511,12
+		H226.131c-6.909,0-12.51-5.373-12.51-12V203c0-6.627,5.601-12,12.51-12h257.854c6.91,0,12.511,5.373,12.511,12V354.489z"/>
+	<g>
+		<rect x="321.83" y="382.334" fill="#FFFFFF" width="74" height="21.334"/>
+		<text transform="matrix(1 0 0 1 329.3232 397.3164)" font-family="'DINAlternate-Bold'" font-size="12">NAPÁJENÍ</text>
+	</g>
+	<g>
+		<rect x="321.83" y="182.322" fill="#FFFFFF" width="74" height="21.332"/>
+		<text transform="matrix(1 0 0 1 334.833 195.3032)" font-family="'DINAlternate-Bold'" font-size="12">TELEFON</text>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="1.5277" stroke-miterlimit="10" d="M792.475,543.063
+		c0,6.042-5.372,10.939-12,10.939H533.143c-6.628,0-12-4.897-12-10.939V404.955c0-6.043,5.372-10.94,12-10.94h247.332
+		c6.628,0,12,4.897,12,10.94V543.063z"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.65" stroke-miterlimit="10" cx="734.44" cy="483.03" r="23.386"/>
+	<text transform="matrix(1 0 0 1 717.668 444.9648)" font-family="'DINAlternate-Bold'" font-size="12">RESET</text>
+	<text transform="matrix(1 0 0 1 411.8042 229.0981)" font-family="'DINAlternate-Bold'" font-size="12">ZVONEK</text>
+	<text transform="matrix(1 0 0 1 340.4893 229.0981)" font-family="'DINAlternate-Bold'" font-size="12">STAV</text>
+	<text transform="matrix(1 0 0 1 587.4072 432.9746)" font-family="'DINAlternate-Bold'" font-size="12">ZÁZNAM</text>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.6201" stroke-miterlimit="10" cx="454.58" cy="514.807" r="11.48"/>
+	<text transform="matrix(1 0 0 1 441.2471 491.6494)" font-family="'DINAlternate-Bold'" font-size="12">5VDC</text>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="0.65" stroke-miterlimit="10" cx="454.58" cy="441.651" r="9.213"/>
+</g>
+</svg>

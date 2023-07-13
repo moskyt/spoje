@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="992.13px" height="708.66px" viewBox="0 0 992.13 708.66" enable-background="new 0 0 992.13 708.66" xml:space="preserve">
+<rect x="185.268" y="164.925" fill="none" stroke="#000000" stroke-width="0.98" stroke-miterlimit="10" width="654.803" height="436.535"/>
+<rect x="570.174" y="267.989" fill="#FFFFFF" stroke="#000000" stroke-width="1.5003" stroke-miterlimit="10" width="76.535" height="87.875"/>
+<text transform="matrix(1 0 0 1 683.5166 289.5449)"><tspan x="0" y="0" font-family="'DINAlternate-Bold'" font-size="12">230 V  / 50 Hz </tspan><tspan x="9.387" y="28.799" font-family="'DINAlternate-Bold'" font-size="12">POJISTKA</tspan><tspan x="16.066" y="43.199" font-family="'DINAlternate-Bold'" font-size="12">500 mA</tspan><tspan x="14.036" y="57.6" font-family="'DINAlternate-Bold'" font-size="12">RYCHLÁ</tspan></text>
+<text transform="matrix(1 0 0 1 301.7461 350.7109)" font-family="'DINAlternate-Bold'" font-size="12">LINKA A</text>
+<text transform="matrix(1 0 0 1 405.7466 350.7109)" font-family="'DINAlternate-Bold'" font-size="12">LINKA B</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.2" stroke-miterlimit="10" cx="323.27" cy="299.713" r="17.008"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.2" stroke-miterlimit="10" cx="427.271" cy="299.713" r="17.008"/>
+<path fill="none" stroke="#000000" stroke-width="1.452" stroke-miterlimit="10" d="M498.67,376.321
+	c0,5.877-4.989,10.642-11.146,10.642H257.815c-6.155,0-11.145-4.765-11.145-10.642V241.986c0-5.876,4.99-10.641,11.145-10.641
+	h229.709c6.156,0,11.146,4.765,11.146,10.641V376.321z"/>
+<g>
+	<rect x="339.02" y="222.668" fill="#FFFFFF" width="74" height="21.332"/>
+	<text transform="matrix(1 0 0 1 352.0234 235.6484)" font-family="'DINAlternate-Bold'" font-size="12">TELEFON</text>
+</g>
+<path fill="none" stroke="#000000" stroke-width="1.42" stroke-miterlimit="10" d="M778.666,376.321
+	c0,5.877-4.771,10.642-10.659,10.642H548.325c-5.888,0-10.659-4.765-10.659-10.642V241.986c0-5.876,4.771-10.641,10.659-10.641
+	h219.682c5.888,0,10.659,4.765,10.659,10.641V376.321z"/>
+<g>
+	<rect x="617.62" y="225.007" fill="#FFFFFF" width="74" height="21.332"/>
+	<text transform="matrix(1 0 0 1 627.7695 237.9873)" font-family="'DINAlternate-Bold'" font-size="12">NAPÁJENÍ</text>
+</g>
+<circle fill="none" stroke="#000000" stroke-width="0.35" stroke-miterlimit="10" cx="557.418" cy="311.927" r="4.961"/>
+<circle fill="none" stroke="#000000" stroke-width="0.35" stroke-miterlimit="10" cx="659.465" cy="311.927" r="4.961"/>
+</svg>
