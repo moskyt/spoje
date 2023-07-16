@@ -4,7 +4,19 @@
 
 ### Napajeni
 
-Meanwell RD-50A (+5/+12V)
+vsechna ctyri napeti maji svoji indikaci na prednim panelu a svuj vypinac
+
+na vstupnich 230VAC je pojistka
+
+POZOR! IEC konektor na vstupu nema standardizovane zapojeni, resp. ruzne kabely jsou ruzne. je tedy treba mit na pameti, ze L a N mohou byt prohozene (a nikdo s tim nic neudela)
+
+### DC
+
+Meanwell RD-35B (+5/+24V)
+
+5V napaji arduino
+
+24V napaji telefonni linku
 
 ### Trafo
 
@@ -12,21 +24,25 @@ pouziva se pro vyzvaneci AC
 
 je to trafo 400->110, tedy 230->63 voltu, coz je optimalni
 
+### Zapojeni
+
+viz `spoje_pcb` -- projekt v kicadu
+
+v 'doc/` je vyexportovane schema a PCB v kicadu
+
+vsechny draty jsou popsane
+
 ## Ovladani
 
 ### Vypinace
 
-hlavni vypinac on-off (zadni panel)
-
-pripojeni DC okruhu
-
-pripojeni AC okruhu
+napajeni ctyr napeti (master 230VAC, vyzvaneci trafo, dva vystupy z DC zdroje)
 
 cervene reset tlacitko (hardware reset na RESET pinu)
 
 ### Zvoneni
 
-zluta tlacitka jsou na vyzvaneni na prislusnych linkach. jde ale o SW zvoneni, takze se prepne
+zluta tlacitka jsou na vyzvaneni na prislusnych linkach. je to SW zvoneni, aktivace stavu POKE.
 
 ## Literatura
 
